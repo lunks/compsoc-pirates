@@ -12,3 +12,5 @@ it in this directory:
 
 Then you should be able to go to http://localhost:9090 to view the
 presentation.
+
+...or you can view it on [heroku](http://compsoc-pirates.heroku.com)
